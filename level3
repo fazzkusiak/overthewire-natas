@@ -1,0 +1,7 @@
+Username: natas3
+URL:      http://natas3.natas.labs.overthewire.org
+password:G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
+
+in the source code there is a pixel.png, its directory navigates to /files/pixel.png, if we navigate to /files/ we can get users.txt, where is stored the password for our user
+
+
