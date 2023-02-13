@@ -1,0 +1,4 @@
+
+
+password:Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
+so, in the source code we have explained encoding function and encodedsecret code, we have to reverse operations by reversing functions order and its details (encode to decode, strrev stays the same and hex to bin)
