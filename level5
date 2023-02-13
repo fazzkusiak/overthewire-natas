@@ -1,0 +1,4 @@
+
+
+password:Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD
+after long time I decided to read the source code one more time, it tells that we have to referer from natas5... page, so Ive used curl and gave referer which gave me password
