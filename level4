@@ -1,0 +1,13 @@
+Username: natas4
+URL:      http://natas4.natas.labs.overthewire.org
+password: tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+
+if we modify url and append /robots.txt we get 
+
+User-agent: *
+Disallow: /s3cr3t/
+
+there is a tip in the url that even google cant find it, Disallow makes that google is not showing results from given pages, we have s3cr3t so if we put s3cr3t into url we get users.txt, where the password is hidden.
+
+
+
