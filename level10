@@ -1,5 +1,5 @@
 
 
-password:Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
-so, after long time, Ive thought that we have to get access by bruteforcing dictionary words into url, however you can access the bash by using & operators, by that u can get the password from /etc/natas_pass/level9
-so all u have to do is put * & cat /etc/natas_pass/level9 & *
+password:D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
+so, after long time, Ive thought that we have to get access by bruteforcing dictionary words into url, however you can access the bash by using & operators, by that u can get the password from /etc/natas_webpass/level10
+so all u have to do is put * & cat /etc/natas_webpass/level10 & *
