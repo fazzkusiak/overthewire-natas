@@ -1,0 +1,7 @@
+
+
+solution:again I overthinked the idea, grep can get multiple arguments, if we pass first that matchs pattern, the second wont be check, so we can do osmething like that
+*a /etc/natas_webpass/natas11 dictionary.txt*
+and then we can get the password
+
+1KFqoJXi6hRaPluAmk8ESDW4fSysRoIg
