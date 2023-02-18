@@ -1,3 +1,13 @@
+
+
+password:YWqo0pjpcXzSIl5NMAVxg12QxeC1w9QG
+i think it was the toughest one, 
+after studiyng a lot of code Ive realized (shouldve just understand the source code) that the most of the part is the same, the json is decoded, based64, xored
+you have to reverse xor coding, you have cookie and plaintext, thanks to that you can get the key which allow you to find needed cookie
+
+
+
+
   GNU nano 6.4                                           colors *                                                   
 data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oLyovLysubjY%3D"       #abcdef
 data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5of3p%2Ff3t%2BbjY%3D"   #123456
@@ -33,9 +43,16 @@ LyotKi8q	#abaaab
 LyotKi8p	#abaaaa
 LSwvKC0r	#cdcccc
 fyl9eS0r	#1a12cc
+KiwoLyos	#dddddd
+KC4qLSgu	#ffffff
+
+data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oKC4qLSgubjY%3D"
 data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5ofyl9eS0rbjY%3D"
 data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oLSwvKC0rbjY%3D"
 data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5objY%3D"	#aaaccc
+data:"MGw7JCQ5OC04PT8jOSpqdmkgJ25nbCorKCEkIzlscm5oKiwoLyosbjY%3D"
+
+KNHL
 
 
 
