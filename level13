@@ -1,0 +1,6 @@
+
+
+password:lW3jYRI02ZKDBb8VtQBU1f6eDRo6WEj9
+
+you can bypass type check, in the inspect you should change .jpg extension to php, its not checked, then with *passthru* command you can get the password
+
