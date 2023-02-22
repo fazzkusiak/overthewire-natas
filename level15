@@ -1,0 +1,7 @@
+
+
+passwrod:TTkaI7AWG4iDERztBcEyKV7kRXH1EZRB
+
+in the source code we can read that the input is not filtered and we can use escape characters and sql injection to bypass the login site, in the username we put
+natas15" #
+and then we get the password
